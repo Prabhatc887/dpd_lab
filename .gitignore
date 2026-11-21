@@ -1,0 +1,13 @@
+# Local Python environment and cache
+.venv/
+__pycache__/
+*.pyc
+
+# Verilator build files and simulator executable
+/obj_dir/
+
+# Generated samples, plots, and experiment outputs
+/out/
+
+# macOS Finder metadata
+.DS_Store
